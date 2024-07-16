@@ -1,0 +1,26 @@
+Install Anaconda:
+
+Download Anaconda from their website and follow the installation instructions.
+Open Anaconda Navigator:
+
+After installation, open Anaconda Navigator.
+Install Required Packages:
+
+Go to the "Home" tab in Anaconda Navigator.
+Open a terminal or command prompt from there.
+Type conda install pandas numpy matplotlib seaborn nb-format and press Enter.
+After that, type pip install wordcloud and press Enter.
+Download Dataset:
+
+Get the dataset files ('dataset').
+Update File Paths:
+
+Edit the Python script and update the file paths to where you saved the dataset files.
+Run the Script:
+
+Open a terminal or command prompt.
+Navigate to the directory where your Python script is located.
+Type python your_script_name.py and press Enter.
+View Results:
+
+Once the script finishes running, you should see the results, which might include visualizations or output depending on the script.
